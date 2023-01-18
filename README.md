@@ -8,13 +8,13 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 <p align="left">
 
   <a href="#" alt="Outlook">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=gabrielbbrito_1@hotmail.com" /></a>
+  <img src="(https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=gabrielbbrito_1@hotmail.com)" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielbbrito/" /></a>
+  <img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielbbrito/)" /></a>
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielbbrito1/"/></a>
+  <img src="(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielbbrito1/)"/></a>
   
 </p>  
 
