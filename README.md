@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Gabriel Brito!</strong>
+## 🎮 Olá, meu nome é <strong>Gabriel Brito!</strong>
 
 Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor do curso de Dev Fullstack da Infinity School aspirando a dev jr! Amo jogar vôlei e jogar algum game nas horas vagas.
 <br>
@@ -8,13 +8,13 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 <p align="left">
 
   <a href="gabrielbbrito_1@hotmail.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=purple" /></a>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-ff3a5e?style=for-the-badge&logo=Microsoft-outlook&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/gabrielbbrito/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=purple" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF" /></a>
 
   <a href="https://www.instagram.com/gabrielbbrito1/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=purple"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/></a>
   
 </p>  
 
@@ -36,4 +36,4 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbbrito1&show_icons=true)
 
-[![gabrielbbrito1](<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbbrito1&layout=compact&theme=buefy&hide_border=true" />)
+[![gabrielbbrito1](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbbrito1&layout=compact&theme=buefy&hide_border=true)
