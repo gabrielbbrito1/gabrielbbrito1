@@ -7,8 +7,8 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 
 <p align="left">
 
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielbbrito_1@hotmail.com" /></a>
+  <a href="#" alt="Outlook">
+  <https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=gabrielbbrito_1@hotmail.com" /></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielbbrito/" /></a>
