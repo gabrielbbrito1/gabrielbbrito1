@@ -3,7 +3,7 @@
 Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor do curso de Dev Fullstack da Infinity School aspirando a dev jr! Amo jogar vôlei e jogar algum game nas horas vagas.
 <br>
 
-💬 Se tiver algum projeto interessante ou quiser conversar sobre algo relacionado a trabalho ou programação, entre em contato comigo!
+💬 Se tiver alguma ideia de projeto interessante que queira desenvolver ou quiser conversar sobre algo relacionado a trabalho ou programação, entre em contato comigo!
 
 <p align="left">
 
