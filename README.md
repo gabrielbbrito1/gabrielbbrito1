@@ -34,6 +34,6 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbbrito1&show_icons=true)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbbrito1&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
