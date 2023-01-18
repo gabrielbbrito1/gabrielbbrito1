@@ -36,4 +36,4 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbbrito1&show_icons=true)
 
-![gabrielbbrito1](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbbrito1&hide=html&layout=compact=true&theme=default)
+![gabrielbbrito1](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbbrito1&layout=compact&theme=buefy&hide_border=true)
