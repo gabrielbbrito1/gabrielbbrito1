@@ -1,9 +1,11 @@
 ## 💜 Olá, meu nome é <strong>Gabriel Brito!</strong>
 
 Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor do curso de Dev Fullstack da Infinity School aspirando a dev jr! Amo jogar vôlei e jogar algum game nas horas vagas.
+<br>
 
 💬 Se tiver algum projeto interessante ou quiser conversar sobre algo relacionado a trabalho ou programação, entre em contato comigo!
 
+----
 
 <p align="left">
 
@@ -34,4 +36,4 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbbrito1&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
