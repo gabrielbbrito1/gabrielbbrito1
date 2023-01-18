@@ -7,7 +7,7 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 
 <p align="left">
 
-  <a href="mailto:gabrielbbrito_1@hotmail.com" alt="Outlook">
+  <a href="mailto:gabrielbbrito_1@hotmail.com?" alt="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-ff3a5e?style=for-the-badge&logo=Microsoft-outlook&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/gabrielbbrito/" alt="Linkedin">
