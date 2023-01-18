@@ -3,6 +3,8 @@
 Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor do curso de Dev Fullstack da Infinity School aspirando a dev jr! Apaixonado por vôlei e games.
 <br>
 
+🌱 Atualmente estou estudando mais de Javascript e em busca de estudar Typescript e ReactJS!
+
 💬 Se tiver alguma ideia de projeto interessante que queira desenvolver ou quiser conversar sobre algo relacionado a trabalho ou programação, entre em contato comigo!
 
 <p align="left">
