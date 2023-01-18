@@ -4,6 +4,7 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 
 💬 Se tiver algum projeto interessante ou quiser conversar sobre algo relacionado a trabalho ou programação, entre em contato comigo!
 
+
 <p align="left">
 
   <a href="#" alt="Gmail">
@@ -33,4 +34,4 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbbrito1&show_icons=true)
