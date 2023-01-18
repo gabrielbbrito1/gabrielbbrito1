@@ -6,9 +6,9 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 💬 Se tiver alguma ideia de projeto interessante que queira desenvolver ou quiser conversar sobre algo relacionado a trabalho ou programação, entre em contato comigo!
 
 <p align="left">
-
-  <a href="mailto:gabrielbbrito_1@hotmail.com?" alt="Outlook">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-ff3a5e?style=for-the-badge&logo=Microsoft-outlook&logoColor=white" /></a>
+  
+  <a href="mailto:gabrielbbrito_1@hotmail.com?">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-ff3a5e?style=for-the-badge&logo=Microsoft-outlook&logoColor=white"/></a>
 
   <a href="https://www.linkedin.com/in/gabrielbbrito/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF" /></a>
