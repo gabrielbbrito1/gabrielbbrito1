@@ -1,6 +1,6 @@
 ## 🎮 Olá, meu nome é <strong>Gabriel Brito!</strong>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor do curso de Dev Fullstack da Infinity School aspirando a dev jr! Apaixonado por vôlei e games.
 <br>
@@ -19,7 +19,7 @@ Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor
 
   <a href="https://www.instagram.com/gabrielbbrito1/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/></a>
-  
+    
 </p>  
 
 ----
