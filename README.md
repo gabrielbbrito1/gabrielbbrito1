@@ -1,5 +1,7 @@
 ## 🎮 Olá, meu nome é <strong>Gabriel Brito!</strong>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor do curso de Dev Fullstack da Infinity School aspirando a dev jr! Apaixonado por vôlei e games.
 <br>
 
