@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
-Sou recém formado em Ciência da Computação, atualmente trabalho como Monitor do curso de Dev Fullstack da Infinity School aspirando a dev jr! Apaixonado por vôlei e games.
+Sou formado em Ciência da Computação, Ja trabalhei como Monitor do curso de Dev Fullstack da Infinity School e hoje em dia trabalho em um projeto de inteligência artificial! Sou apaixonado por vôlei e games.
 <br>
 
-🌱 Atualmente estou estudando React.Js, Next.js e typescript!
+🌱 Atualmente estou estudando Python, Django e javascript!
 
 💬 Se tiver alguma ideia de projeto interessante que queira desenvolver ou quiser conversar sobre algo relacionado a trabalho ou programação, entre em contato comigo!
 
