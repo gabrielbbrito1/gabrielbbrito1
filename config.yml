@@ -53,7 +53,7 @@ galaxy_arms:
   - name: "Cloud e DevOps"
     color: "axon_amber"
     items:
-      - "Google Cloud Platform (GCP)"
+      - "Google Cloud Platform"
       - "Apache Airflow"
       - "GitHub"
       - "Git"

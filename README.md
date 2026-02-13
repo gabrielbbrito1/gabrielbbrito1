@@ -35,7 +35,7 @@
 
 Sou um Desenvolvedor Fullstack apaixonado por transformar problemas complexos em produtos digitais escaláveis e de alto impacto.
 
-**Currently at** Salvador, Bahia
+**Morando em** Salvador, Bahia
 </details>
 
 <br/>
